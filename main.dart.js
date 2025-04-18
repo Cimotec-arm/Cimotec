@@ -46193,7 +46193,7 @@ p.dy=B.d.h1(B.h.l(r),2,"0")+":"+B.d.h1(B.h.l(q),2,"0")}else p.dy="\u221e:\u221e"
 aj_(){var s,r=this
 if(r.r||r.w)return
 r.Z(new A.as8(r))
-r.i5("../../../assets/sons/countdown_start.mp3")
+r.i5("../assets/sons/countdown_start.mp3")
 s=r.db
 if(s!=null)s.bL()
 s=t.P
@@ -46226,7 +46226,7 @@ s.GV()},
 EV(){var s=this
 if(s.fy<s.go){s.Z(new A.arS(s))
 s.GV()}else s.Oh()},
-Gp(a){var s,r=this,q="../../../assets/sons/shot_pist.mp3"
+Gp(a){var s,r=this,q="../assets/sons/shot_pist.mp3"
 if(!r.w||r.x)return
 if(A.iw(r.id)){s=r.fx
 s=new A.aA(s,new A.arU(r),A.V(s).h("aA<1>")).gF(0)>=r.id}else s=!1
@@ -46256,19 +46256,19 @@ Oh(){var s,r=this
 r.Z(new A.arR(r))
 s=r.d
 if(s!=null)s.aw()
-r.i5("../../../assets/sons/session_end.mp3")},
+r.i5("../assets/sons/session_end.mp3")},
 agi(){var s=this
 if(!s.w||s.y)return
 s.Z(new A.arT(s))
-s.i5("../../../assets/sons/pause.mp3")},
+s.i5("../assets/sons/pause.mp3")},
 ahD(){var s=this
 if(!s.w||!s.y)return
 s.Z(new A.arY(s))
-s.i5("../../../assets/sons/resume.mp3")},
+s.i5("../assets/sons/resume.mp3")},
 ahq(){var s=this,r=s.d
 if(r!=null)r.aw()
 s.Z(new A.arX(s))
-s.i5("../../../assets/sons/reset.mp3")},
+s.i5("../assets/sons/reset.mp3")},
 a6Q(){var s,r=this
 r.Gp("head")
 if(r.Q){s=r.z
@@ -46412,7 +46412,7 @@ $0(){this.a.cy=1},
 $S:0}
 A.asb.prototype={
 $0(){var s=this.a
-s.i5("../../../assets/sons/countdown_beep.mp3")
+s.i5("../assets/sons/countdown_beep.mp3")
 s.Z(new A.as3(s))
 A.mT(B.U,new A.as4(s),t.P)
 s.CW=A.bX(B.eT,new A.as5(s))},
@@ -46432,7 +46432,7 @@ $0(){this.a.cy=1},
 $S:0}
 A.as5.prototype={
 $0(){var s=this.a
-s.i5("../../../assets/sons/session_start.mp3")
+s.i5("../assets/sons/session_start.mp3")
 s.Z(new A.as_(s))
 A.mT(B.U,new A.as0(s),t.P)},
 $S:0}
