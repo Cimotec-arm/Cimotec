@@ -45765,7 +45765,7 @@ A.pQ.prototype={
 ah(){var s=$.aw(),r=t.s
 return new A.Tn(new A.qU(B.fR,s),new A.qU(B.fR,s),new A.qU(B.fR,s),new A.qU(B.fR,s),A.a(["INVIT\xc9(E)","1\xe8re ANN\xc9E","2\xe8me ANN\xc9E","3\xe8me ANN\xc9E","CYCLE SP\xc9CIAL","4\xe8me ANN\xc9E"],r),A.a(["N\xb01","N\xb02","N\xb03","N\xb04","N\xb05","N\xb06","N\xb07","N\xb08","N\xb09","N\xb010","N\xb011","N\xb012"],r))}}
 A.Tn.prototype={
-K(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.OX("../assets/8.png",B.c9,1/0,1/0),g=A.S(38,B.j.gk()>>>16&255,B.j.gk()>>>8&255,B.j.gk()&255),f=t.p
+K(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.OX("../assets/8.svg",B.c9,1/0,1/0),g=A.S(38,B.j.gk()>>>16&255,B.j.gk()>>>8&255,B.j.gk()&255),f=t.p
 g=A.cq(A.aQ(i,A.bT(A.a([A.bx(A.a([A.b3(i,i,20),A.b3(A.eR(B.a6,A.a([A.KW("../assets/log_gauche.png",B.c9,160,140)],f),B.Q,B.aH,i),160,140),A.aQ(i,i,B.m,B.e,i,i,i,120,i,i,i,i,1),A.b3(i,i,22),A.b3(A.eR(B.a6,A.a([A.KW("../assets/far_logo.png",B.c9,182,180)],f),B.Q,B.aH,i),182,180)],f),B.o,B.b9,B.q),A.b3(i,20,i),A.aG("100\xe8me Promotion",i,i,i,A.b8(i,i,B.e,i,i,i,i,i,i,i,i,24,i,i,B.M,i,i,!0,i,1.2,i,i,i,i,i,i),i,i)],f),B.o,B.b9,B.q),B.m,g,i,i,i,i,i,i,i,i,i),1)
 s=A.S(64,B.j.gk()>>>16&255,B.j.gk()>>>8&255,B.j.gk()&255)
 r=A.tZ(!1,i,!0,A.aG("Login",i,i,i,A.b8(i,i,j.as?B.ba:B.e,i,i,i,i,i,i,i,i,28,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),i,!0,i,i,i,i,i,i,i,new A.anJ(),i,new A.anK(j),i,i,i,i)
